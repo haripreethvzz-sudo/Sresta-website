@@ -156,7 +156,7 @@ export default function Home() {
             aria-label="SRESTA - Sunrise Electrical Services & Testing Agency"
           >
             <Image
-              src="/stesta-logo.png"
+              src="/stesta-logo.svg"
               alt="SRESTA - Sunrise Electrical Services & Testing Agency Logo"
               width={1672}
               height={941}
@@ -243,7 +243,7 @@ export default function Home() {
           <div className="visual-panel">
             <div className="panel-bg-image absolute inset-0">
               <Image
-                src="/electrical-testing-hero.jpg"
+                src="/electrical-testing-hero.svg"
                 alt="Modern High Voltage Electrical Testing Diagnostic Facility"
                 fill
                 priority
